@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=023222&text=HELLO%20Dawg!🕹&fontColor=ffffff&reversal=true&textBg=false&fontSize=60&fontAlignY=34" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=f5f5dc&text=HELLO%20Dawg!🕹&fontColor=10403d&reversal=true&textBg=false&fontSize=60&fontAlignY=34" />
 </p>
 
 ## 👋 Halo, Selamat Datang!
