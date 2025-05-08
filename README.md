@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=F9EFC8&text=Hello%20Dawg!🕹&fontColor=10403d&reversal=true&textBg=false&fontSize=60&fontAlignY=34" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=170634&text=Hello%20Guys!🕹&fontColor=F0EDF5&reversal=true&textBg=false&fontSize=60&fontAlignY=34" />
 </p>
 
-## 👋 Halo, Selamat Datang!
+## 👀 Halo, Selamat Datang!
 
 ### 📌 Tentang Saya
-Halo! Nama saya *frhannns, mahasiswa **Teknologi Rekayasa Perangkat Lunak (TRPL)* di *Politeknik Negeri Batam. Saat ini saya tinggal di **Batam* dan memiliki ketertarikan dalam dunia pemrograman serta pengembangan perangkat lunak.
+Halo! Nama saya *Muhammad Farhan Saz, mahasiswa **Teknologi Rekayasa Perangkat Lunak (TRPL)* di *Politeknik Negeri Batam. Saat ini saya tinggal di **Batam* dan memiliki ketertarikan dalam dunia pemrograman serta pengembangan perangkat lunak.
 
 <br>
 
@@ -17,7 +17,6 @@ Halo! Nama saya *frhannns, mahasiswa **Teknologi Rekayasa Perangkat Lunak (TRPL)
         <ul>
           <li>🔹 <b>Bahasa Pemrograman:</b>-</li>
           <li>🔹 <b>Frameworks:</b>-</li>
-          <li>🔹 <b>Database:</b>-</li>
           <li>🔹 <b>Tools:</b>VS Code</li>
         </ul>
         <br>
@@ -32,6 +31,3 @@ Halo! Nama saya *frhannns, mahasiswa **Teknologi Rekayasa Perangkat Lunak (TRPL)
   </table>
 </div>
 
----
-
-💡 "Jangan takut gagal, karena kegagalan adalah langkah menuju kesuksesan!" 🚀
