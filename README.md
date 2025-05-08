@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=rgb(2, 50, 34)&text=HELLO%20Dawg!🕹&fontColor=ffffff&reversal=true&textBg=false&fontSize=60&fontAlignY=34" />
+</p>
 
-<!--
-**frhannkunn/frhannkunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Halo, Selamat Datang!
 
-Here are some ideas to get you started:
+### 📌 Tentang Saya
+Halo! Nama saya *frhannns, mahasiswa **Teknologi Rekayasa Perangkat Lunak (TRPL)* di *Politeknik Negeri Batam. Saat ini saya tinggal di **Batam* dan memiliki ketertarikan dalam dunia pemrograman serta pengembangan perangkat lunak.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🚀 Teknologi & Skill & 🤝 Mari Terhubung!
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>🔹 <b>Bahasa Pemrograman:</b>-</li>
+          <li>🔹 <b>Frameworks:</b>-</li>
+          <li>🔹 <b>Database:</b>-</li>
+          <li>🔹 <b>Tools:</b>VS Code</li>
+        </ul>
+        <br>
+        <ul>
+          <li>📫 <b>Email:</b> <a target="_blank" href="mailto:farhannn2456@gmail.com">farhannn2456@gmail.com</a></li>
+          <li>🏡 <b>Instagram:</b> <a href="https://www.instagram.com/farhannnmoment">instagram.com/farhannnmoment</a></li>
+        </ul>
+      </td>
+      <td>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+💡 "Jangan takut gagal, karena kegagalan adalah langkah menuju kesuksesan!" 🚀
